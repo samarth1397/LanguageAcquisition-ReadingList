@@ -17,8 +17,9 @@ I have divided this list into a number of sections.
 
 ### Complex models
 * [A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment](https://arxiv.org/pdf/1703.09831.pdf)
-* [Deep Reinforcement Learning: AN overview](https://arxiv.org/pdf/1701.07274.pdf)
+* [Deep Reinforcement Learning: An overview](https://arxiv.org/pdf/1701.07274.pdf)
 * [Reinforcement Learning with Unsupervised Auxillary Tasks](https://arxiv.org/pdf/1611.05397.pdf)
 
 ### Other useful Machine Learning literature
 * [Correlation based Feature Selection](https://www.cs.waikato.ac.nz/~ml/publications/1997/Hall-LSmith97.pdf)
+* [Feature Selection for High-Dimensional Data](http://www.aaai.org/Papers/ICML/2003/ICML03-111.pdf)
