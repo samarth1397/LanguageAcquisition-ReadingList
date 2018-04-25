@@ -4,14 +4,21 @@ This is a list of papers that might be useful if you're a computer scientist and
 
 I have divided this list into a number of sections. 
 
-## Psychology, Cognitive Science and Linguistics
+### Psychology, Cognitive Science and Linguistics
 * [A history of Acquisition and Bickerton's Bioprogram](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1120&context=dlls) : This document is a little outdated, but it should provide a good introduction. 
+* [A Comparison of Inference Learning and Classification Learning](https://www.researchgate.net/publication/8909490_Diagnosticity_and_Prototypicality_in_Category_Learning_A_Comparison_of_Inference_Learning_and_Classification_Learning)
+* [Correlation versus prediction in children’s word learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3058523/)
 
-## Simple Machine Learning (Naive Bayes, etc.) - Very Important
+### Probabilisitic models and Bayesian Inference
+* [Probabilistic models of cognition](https://www.ed.ac.uk/files/atoms/files/griffithstics.pdf)
+* [Generality, Similarity and Bayesian Inference](http://web.mit.edu/cocosci/Papers/tenenbaum_griffiths01.pdf)
+* [Word Learning as Bayesian Inference](http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf)
+* [Building Machines That Learn and Think Like People](https://arxiv.org/pdf/1604.00289.pdf)
 
+### Complex models
+* [A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment](https://arxiv.org/pdf/1703.09831.pdf)
+* [Deep Reinforcement Learning: AN overview](https://arxiv.org/pdf/1701.07274.pdf)
+* [Reinforcement Learning with Unsupervised Auxillary Tasks](https://arxiv.org/pdf/1611.05397.pdf)
 
-
-## Complicated Deep-Learning stuff (important, but read the other material before you get to this)
-
-
-## Some other useful machine learning literature which will be useful - (feature correlation, curse of dimensionality etc.)
+### Other useful Machine Learning literature
+* [Correlation based Feature Selection](https://www.cs.waikato.ac.nz/~ml/publications/1997/Hall-LSmith97.pdf)
