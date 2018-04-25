@@ -5,7 +5,7 @@ This is a list of papers that might be useful if you're a computer scientist and
 I have divided this list into a number of sections. 
 
 ## Psychology, Cognitive Science and Linguistics
-* A history of Acquisition and Bickerton's Bioprogram: [Link](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1120&context=dlls) : This document is a little outdated, but it should provide a good introduction. 
+* [A history of Acquisition and Bickerton's Bioprogram](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1120&context=dlls) : This document is a little outdated, but it should provide a good introduction. 
 
 ## Simple Machine Learning (Naive Bayes, etc.) - Very Important
 
