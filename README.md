@@ -1,3 +1,5 @@
+*Note: This list is not yet complete.*
+
 # LanguageAcquisition-ReadingList
 
 This is a list of papers that might be useful if you're a computer scientist and you're trying to create an artificial agent that can learn a language or a concept in a manner identical to human learning. Before you start working with RNNs, LSTMs and other complicated deep-learning architecture, I think it is important that you understand the basics of how humans learn a concept or a language. This would mean reading a few papers written by Psychologists and Cognitive Scientists. 
@@ -23,3 +25,5 @@ I have divided this list into a number of sections.
 ### Other useful Machine Learning literature
 * [Correlation based Feature Selection](https://www.cs.waikato.ac.nz/~ml/publications/1997/Hall-LSmith97.pdf)
 * [Feature Selection for High-Dimensional Data](http://www.aaai.org/Papers/ICML/2003/ICML03-111.pdf)
+
+
