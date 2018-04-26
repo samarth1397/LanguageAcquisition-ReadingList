@@ -1,6 +1,6 @@
 *Note: This list is not yet complete.*
 
-# LanguageAcquisition-ReadingList
+# Language and Concept Acquisition
 
 This is a list of papers that might be useful if you're a computer scientist and you're trying to create an artificial agent that can learn a language or a concept in a manner identical to human learning. Before you start working with RNNs, LSTMs and other complicated deep-learning architecture, I think it is important that you understand the basics of how humans learn a concept or a language. This would mean reading a few papers written by Psychologists and Cognitive Scientists. 
 
