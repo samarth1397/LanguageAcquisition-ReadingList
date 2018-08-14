@@ -17,6 +17,7 @@ I have divided this list into a number of sections.
 * [Word Learning as Bayesian Inference](http://web.mit.edu/cocosci/Papers/cogsci00_FINAL.pdf)
 * [Building Machines That Learn and Think Like People](https://arxiv.org/pdf/1604.00289.pdf)
 * [Human-level concept learning through probabilistic program induction](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf)
+* [Introduction to causal inference](http://www.jmlr.org/papers/volume11/spirtes10a/spirtes10a.pdf)
 
 ### Complex models
 * [A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment](https://arxiv.org/pdf/1703.09831.pdf)
